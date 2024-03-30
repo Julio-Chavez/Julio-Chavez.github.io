@@ -2,7 +2,7 @@
 title: "Wave and turbulence separation using dynamic mode decomposition"
 collection: publications
 permalink: /publication/2024-03-01-Wave_and_turbulence_separation_using_dynamic_mode_decomposition
-excerpt: 'This paper is leverages a data-driven technique to decompose waves and turbulence from oceanic data.'
+excerpt: 'In this paper we use a data-driven technique to decompose waves and turbulence from oceanic data.'
 date: 2024-03-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2403.00223'
