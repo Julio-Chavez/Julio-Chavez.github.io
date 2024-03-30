@@ -21,7 +21,7 @@ repository               : "Julio-Chavez/julio-chavez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio_picture.jpg"
+  avatar           : "bio_picture.jpg"
   name             : "Julio Chavez-Dorado"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Ph.D. student at DiBenedetto Lab"
